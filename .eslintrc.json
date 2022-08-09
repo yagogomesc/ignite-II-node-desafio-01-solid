@@ -57,7 +57,8 @@
     "import/no-extraneous-dependencies": [
       "error",
       { "devDependencies": ["**/*.spec.ts"] }
-    ]
+    ],
+    "linebreak-style": ["error", "windows"],
   },
   "settings": {
     "import/resolver": {
